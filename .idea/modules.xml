@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/tarea-js-promises2.iml" filepath="$PROJECT_DIR$/tarea-js-promises2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarea-js-promises.iml" filepath="$PROJECT_DIR$/tarea-js-promises.iml" />
     </modules>
   </component>
 </project>
