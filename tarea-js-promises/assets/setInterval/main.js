@@ -4,8 +4,7 @@
 
 
 
-let repeticion = 1,
-    interval;
+let repeticion = 1, interval;
 
 interval = setInterval( () => {
     document.getElementById("intervalo").innerHTML = `<h1>${repeticion}</h1>`;
